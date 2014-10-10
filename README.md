@@ -12,4 +12,4 @@ how to run
 open Terminal, type in: `racket` 
 
 
-in racket, type in: (load "filename.scm")
+in racket, type in: `(load "filename.scm")`
