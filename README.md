@@ -1,4 +1,4 @@
-primrose
+racket-tutor
 ========
 
 this serves as a racket tutor, it provides GUI for functions in racket language. 
